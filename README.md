@@ -35,7 +35,10 @@ $mail->Body    = 'This is the HTML message body <b>in bold!</b>';
 
 customized examples ==> http://omgfit.in
 
+Once your main application is launched you can send the users a sign up mail with the reference_code generated in the database for that user as a PARAMETER  in the SIGN UP URL
 
+eg: http://omgfit.in/sign_up/REFERENCE_CODE
 
+for simple unique authentication purpose.
 
 
