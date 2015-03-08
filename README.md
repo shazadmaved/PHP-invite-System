@@ -17,7 +17,7 @@ created_at
 dbConnect.php  is to be edited with the config of the database you created.
 
 
-You can add more fields and customise the HTML form in index.php with associated Jquery - public/javascript/index.js and also the query in invite/create_invite.php to fetch and save the fields.
+You can add more fields and customise the HTML form in index.php with associated Jquery - public/javascript/index.js and also the query in invite/create_invite.php to save the fields.
 
 
 
