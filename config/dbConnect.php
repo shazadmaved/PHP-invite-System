@@ -6,6 +6,7 @@ if (!$link) {
 }
 
 $db_selected = mysql_select_db('invite_workspaces', $link);
+//mysql_select_db('database name', $link);
 if (!$db_selected) {
     die ('Can\'t use foo : ' . mysql_error());
 }
