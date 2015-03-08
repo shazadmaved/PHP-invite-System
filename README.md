@@ -10,8 +10,8 @@ config/dbConnect.php --
 
 Please create a Database with one table called "invites" with following fields:
 
-email
-reference_code
+email ,
+reference_code ,
 created_at
 
 dbConnect.php  is to be edited with the config of the database you created.
