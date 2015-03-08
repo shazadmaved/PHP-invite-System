@@ -1,6 +1,6 @@
 <?php
 $link = mysql_connect('localhost', 'root', 'shazad');
-//mysql_connect('host', 'user', 'password', 'database name');
+//mysql_connect('host', 'user', 'password');
 if (!$link) {
     die('Could not connect: ' . mysql_error());
 }
